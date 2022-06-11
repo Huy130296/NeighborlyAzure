@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=neighborlystoragefinal;AccountKey=cvu1Hy/LhAPFZlZZnVqF9WtZFDJyR8lW1xf4tvc3WQ9+gLCjgX9hDfAFX+llDkv1HTqeGCffSaZF+AStqQfpkg==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "MyDbConnectionString":"mongodb://heighborlydata:O8CFdZI2ejg0pRRENnn9tWxdORrp8nYN2Xl4rdX6LOv4I26NjLWsQWhkb5e9pC7ZT5gD3SdPRD7UX0CvAI7nJw==@heighborlydata.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@heighborlydata@"
+  }
+}
